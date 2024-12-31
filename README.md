@@ -23,7 +23,7 @@ Um site simples e interativo que exibe a idade e uma foto que representa se voc�
 - **assets**: Pasta que contém os arquivos estáticos:
   - **css/styles.css**: Arquivo de estilos.
   - **images**: Pasta com imagens representando os períodos do dia (manhã, tarde, noite).
-- **js/script.js**: Arquivo que contém a lógica para exibir a hora e as imagens correspondentes.
+- **js/script.js**: Arquivo que contém a lógica para exibir a imagem e as informações referentes a sua idade.
 
 ## 🛠️ Como Configurar e Executar
 
